@@ -5,4 +5,4 @@ All kind of stupid POC's
 
 TO-DO:
 
-*Add large data files Git LFS module to quora_question_similarity
+*Add large data files to quora_question_similarity folder, using Git LFS module 
